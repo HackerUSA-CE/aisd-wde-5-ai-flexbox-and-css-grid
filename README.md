@@ -75,12 +75,12 @@ Adding this navigation bar at the top of your webpage makes key sections easily 
 ## 8. **Add Pet Image Boxes Section**
 Now that you have a navigation bar, add 12 boxes for the pet photos with cute pet names and short personality descriptions.
 
-  - [ ] Ask for help to create `HTML` code adding a section under the main content area with 12 image boxes for pet photos. The photos are located in the assets/images folder. The photos are named Pet1.jpg to Pet12.jpg. Each box should have an image, a cute pet name, and a short personality description underneath. Please ensure this code uses a `<section>` tag with a class of "pet-gallery".  
-  - [ ] Open your `index.html` file and locate the existing `<main>` tag. This tag should already contain the initial `<p>` tag with the business description.
-  - [ ] Paste the code for the pet images `<section>` directly below the existing `<p>` tag inside the `<main>`. This will ensure that the pet image boxes section appears right after the business description.
+  - [ ] Ask AI for help to generate `HTML` code to create a section under the main content area with 12 image boxes for pet photos. The photos are located in the `assets/images` folder and named `Pet1.jpg` to `Pet12.jpg`. Each box should include an image, a cute pet name, and a short personality description. Make sure the code uses a `<section>` tag with a class of `"pet-gallery"`. 
+  - [ ] Open your `index.html` file and locate the existing `<main>` tag, which should already contain the initial `<p>` tag with the business description.
+  - [ ] Paste the generated code for the pet images `<section>` directly below the existing `<p>` tag inside the `<main>`. This will ensure the pet image boxes section appears immediately after the business description.
   
 **Explanation:**
-In this step, you enhanced the webpage by adding a section that showcases 12 pet photos, each accompanied by a cute pet name and a brief personality description. This section will be visually appealing and give users a glimpse of the adorable pets featured in your store.
+This step adds a visually engaging section featuring 12 pet photos, each with a name and personality description, giving users a charming preview of the pets available.
 
 ## 9. **Add a Section for Location and Hours**
 Next, let's add a section for the location and hours. 
