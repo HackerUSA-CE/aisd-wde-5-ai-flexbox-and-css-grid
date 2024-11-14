@@ -115,7 +115,7 @@ In this step, you're establishing the foundational styling for your webpage by s
 ## 12. **Style the Navigation Bar**
 Now you can style your Navigation bar for your project.
 
-  - [ ] Copy and paste the nav bar code from your `index.html` into an AI chat, include everything from <nav> to </nav>. Ask AI to use this HTML code as a reference when building the upcoming CSS requests.
+  - [ ] Copy and paste the nav bar code from your `index.html` into an AI chat, include everything from `<nav>` to `</nav>`. Ask AI to use this HTML code as a reference when building the upcoming CSS requests.
   - [ ] You now need CSS code to style the header and navigation bar, making the nav bar full width, a black background, and locate it at the top of the page.
   - [ ] The text should all be white in color. 
   - [ ] Please use Flexbox to handle the layout and ensure any text is centered within the navigation bar. Make sure to use the navigation `HTML code` supplied previously for reference when building the CSS.
