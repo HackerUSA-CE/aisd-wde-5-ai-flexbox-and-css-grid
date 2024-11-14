@@ -69,7 +69,7 @@ In this step, you'll ask AI to help you add a navigation bar to your webpage wit
   - [ ] Open your `index.html` file and locate the `<header>` tag. Paste the generated navigation bar code inside the `<header>` tags to position it at the top of your page.
 
 **Explanation:**
-This step introduces a navigation bar that will allow users to easily access key sections of your site. By placing the code inside the <header> tag, the navigation bar appears prominently at the top of your webpage, making it accessible and user-friendly.
+Adding this navigation bar at the top of your webpage makes key sections easily accessible to users.
 
 
 ## 8. **Add Pet Image Boxes Section**
