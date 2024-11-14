@@ -63,13 +63,13 @@ Now that you have your files set up, start by adding the basic HTML5 boilerplate
 In this step, you can set up the basic structure of your webpage by asking AI to generate an HTML5 boilerplate, including a header and main content area, which you can then copy and paste into the index.html file.
 
 ## 7. **Add Navigation Bar Code**
-In this step, you'll ask AI for help to add a navigation bar to your webpage that includes options for "Login," "Our Locations," and "Contact Us." 
+In this step, you'll ask AI to help you add a navigation bar to your webpage with options for "Login," "Our Locations," and "Contact Us."
 
-  - [ ]  You need `HTML` code to add a navigation bar with "Login," "Our Locations," and "Contact Us" options to the existing HTML boilerplate. The nav bar will be a black bar at the top once it is styled. 
-  - [ ] Open your `index.html` file. and locate the `<header>` tag. Paste the navigation bar code between the `<body>` and the `<header>` tags.
+  - [ ]  Use AI to generate `HTML` code for a navigation bar containing the options "Login," "Our Locations," and "Contact Us." The navigation bar should appear as a black bar at the top of your page once it’s styled.
+  - [ ] Open your `index.html` file and locate the `<header>` tag. Paste the generated navigation bar code inside the `<header>` tags to position it at the top of your page.
 
 **Explanation:**
-This step introduces a navigation bar that will allow users to easily access key sections of your site. By placing the code between the <body> and <header> tags, you ensure that the navigation bar appears at the top of your webpage, making it prominent and user-friendly.
+Adding this navigation bar at the top of your webpage makes key sections easily accessible to users.
 
 
 ## 8. **Add Pet Image Boxes Section**
